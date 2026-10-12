@@ -2,7 +2,9 @@
 
 A beginner-friendly collection of Jupyter notebooks focused on learning Python for data analysis. The notebooks cover core Python concepts, working with datasets, and data wrangling techniques used in practical data analysis.
 
-![Python libraries for data science](assets/01_python_libraries.jpg)
+## Python Libraries for Data Science
+
+<img src="./assets/01_python_libraries.jpg" alt="Python libraries for data science" width="800">
 
 ## Contents
 
